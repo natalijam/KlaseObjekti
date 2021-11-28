@@ -3,8 +3,14 @@ package main.klaseobjekti;
 
 
 public class Car {
+    
+    //atributi
+    
     public String brand;
     public String model;
+    
+    
+    //konstruktori
     
     // kreiramo konstruktor
     // konstruktor vid metode, nema povratnu vrednost
